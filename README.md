@@ -116,8 +116,8 @@ This project is MIT licensed. See [LICENSE](LICENSE) for details.
 2. `npm install && npm start`.
 3. Create PR to `main`.
 
-**Built with ❤️ by BLACKBOXAI**  
-[Star this repo! ⭐](https://github.com/) Questions? Open an issue.
+**Built with ❤️ by Jashwanth**  
+
 
 ---
 
